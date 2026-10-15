@@ -1,0 +1,19 @@
+# Environment
+/.venv/
+
+# IDE
+/.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Downloaded datasets (fetched by the notebooks, not committed)
+/data/
